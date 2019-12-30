@@ -1,0 +1,4 @@
+2019-12-16 12:45:51,651 - mylogger - ERROR - log.py[:53] - error message
+2019-12-16 12:49:52,888 - mylogger - ERROR - runAll.py[:29] - error message
+2019-12-16 12:56:17,526 - mylogger - ERROR - runAll.py[:29] - error message
+2019-12-16 13:01:11,692 - mylogger - ERROR - runAll.py[:29] - error message

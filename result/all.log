@@ -1,0 +1,18 @@
+2019-12-16 12:45:51,651 - mylogger - DEBUG - debug mesage
+2019-12-16 12:45:51,651 - mylogger - INFO - info message
+2019-12-16 12:45:51,651 - mylogger - WARNING - this is a waring log
+2019-12-16 12:45:51,651 - mylogger - ERROR - error message
+2019-12-16 12:49:52,888 - mylogger - DEBUG - debug mesage
+2019-12-16 12:49:52,888 - mylogger - INFO - info message
+2019-12-16 12:49:52,888 - mylogger - WARNING - this is a waring log
+2019-12-16 12:49:52,888 - mylogger - ERROR - error message
+2019-12-16 12:56:17,526 - mylogger - DEBUG - debug mesage
+2019-12-16 12:56:17,526 - mylogger - INFO - info message
+2019-12-16 12:56:17,526 - mylogger - WARNING - this is a waring log
+2019-12-16 12:56:17,526 - mylogger - ERROR - error message
+2019-12-16 12:56:17,526 - mylogger - INFO - %s %s
+2019-12-16 13:01:11,692 - mylogger - DEBUG - debug mesage
+2019-12-16 13:01:11,692 - mylogger - INFO - info message
+2019-12-16 13:01:11,692 - mylogger - WARNING - this is a waring log
+2019-12-16 13:01:11,692 - mylogger - ERROR - error message
+2019-12-16 13:01:11,692 - mylogger - INFO - %s %s
